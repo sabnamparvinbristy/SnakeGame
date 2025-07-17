@@ -22,7 +22,7 @@ A classic Snake game implemented in Java using Swing for the graphical interface
 ## Requirements
 
 - Java Development Kit (JDK) 8 or higher
-- Java IDE (IntelliJ IDEA, Eclipse) or command-line tools
+- Java IDE (IntelliJ IDEA, Eclipse,VS CODE)
 
 
 ## Controls
